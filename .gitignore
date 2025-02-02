@@ -1,0 +1,19 @@
+# Node.js dependencies
+/node_modules/
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# npm package-lock file
+package-lock.json
+
+# Optional: If you have build folders or any generated files
+/dist/
+/build/
+
